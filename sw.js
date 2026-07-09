@@ -1,7 +1,7 @@
 /* Palisades IM Visiting Resident Portal — service worker
    Caches the app shell so it opens offline once visited. Bump CACHE
    on each deploy to force clients to pull the new index.html. */
-const CACHE = 'pmc-visiting-v1';
+const CACHE = 'pmc-visiting-v13';
 const ASSETS = [
   './',
   './index.html',
