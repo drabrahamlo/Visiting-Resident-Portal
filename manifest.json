@@ -1,0 +1,16 @@
+{
+  "name": "Palisades IM — Visiting Resident Portal",
+  "short_name": "PMC Visiting",
+  "description": "Quick-reference portal for visiting residents & medical students on the Palisades IM floor & ICU service: the board, coverage guide, physical exam guide and calculators.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E2A55",
+  "theme_color": "#0E2A55",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
